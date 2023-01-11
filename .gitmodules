@@ -1,0 +1,12 @@
+[submodule "lidar-obstacle-detection"]
+	path = lidar-obstacle-detection
+	url = https://github.com/KMerdan/lidar-obstacle-detection.git
+[submodule "Sensor-Fusion"]
+	path = Sensor-Fusion
+	url = https://github.com/KMerdan/Sensor-Fusion.git
+[submodule "dbscan"]
+	path = dbscan
+	url = https://github.com/KMerdan/dbscan.git
+[submodule "point-cloud-clusters"]
+	path = point-cloud-clusters
+	url = https://github.com/mithi/point-cloud-clusters.git
